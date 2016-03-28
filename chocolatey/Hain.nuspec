@@ -2,10 +2,10 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>Hain</id>
-    <version>0.0.2-rc4</version>
+    <version>0.0.3</version>
     <title>Hain</title>
     <authors>Heejin Lee</authors>
-    <owners>FlorianRappl</owners>
+    <owners>FlorianRappl,appetizermonster</owners>
     <licenseUrl>https://github.com/appetizermonster/hain/blob/master/LICENSE</licenseUrl>
     <projectUrl>https://github.com/appetizermonster/hain/</projectUrl>
     <releaseNotes>https://github.com/appetizermonster/hain/releases</releaseNotes>
